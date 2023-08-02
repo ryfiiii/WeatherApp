@@ -7,7 +7,7 @@
     box-sizing: border-box;
     color: white;
     font-family: 'M PLUS Rounded 1c', sans-serif;
-    text-shadow: 0px 0px 13px rgba(0, 0, 0, 0.58);
+    text-shadow: 0px 0px 13px rgba(0, 0, 0, 0.7);
 }
 
 .container {
@@ -75,6 +75,14 @@
     align-items: center;
     font-size: 2.2rem;
     margin-top: 50px;
+
+    background: rgba(73, 255, 233, 0.25);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.4px);
+    -webkit-backdrop-filter: blur(3.4px);
+    border: 1px solid rgba(73, 255, 233, 0.29);
+    padding: 30px;
 }
 
 /* ================================================================== */
