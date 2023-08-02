@@ -83,24 +83,25 @@
 @media screen and (max-width: 480px) {
 
     .title h1 {
-        font-size: 2.8rem;
-    }
-
-    .search .searchBox{
-        padding: 9px 30px;
         font-size: 2.2rem;
     }
 
+    .search .searchBox{
+        padding: 8px 10px;
+        font-size: 1.2rem;
+    }
+
     .errorMessage {
-        margin-bottom: 8px;
-        font-size: 1.5rem;
+        margin-bottom: 5px;
+        font-size: 1.0rem;
     }
 
     .nowWeather {
-        font-size: 3.2rem;
-        margin-top: 60px;
+        font-size: 1.8rem;
+        margin-top: 40px;
     }
 }
+
 
 /* ================================================================== */
 /* モニター幅が1400px以上の時 */
@@ -114,17 +115,17 @@
 
     .search .searchBox{
         padding: 15px 60px;
-        font-size: 1.1rem;
+        font-size: 2.2rem;
     }
 
     .errorMessage {
         margin-bottom: 8px;
-        font-size: 1.1rem;
+        font-size: 1.5rem;
     }
 
     .nowWeather {
-        font-size: 2.0rem;
-        margin-top: 40px;
+        font-size: 3.2rem;
+        margin-top: 60px;
     }
     
 }
