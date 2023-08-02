@@ -59,27 +59,27 @@ async function getWeather(city){
 function bgChange(weather){
     switch(weather){
         case "Clouds":
-            container.style.background = "url('/WeatherApp/images/cloud.jpg')";
+            container.style.background = "url('/images/cloud.jpg')";
             break;
 
         case "Rain":
-            container.style.background = "url('/WeatherApp/images/rainy.jpg')";
+            container.style.background = "url('/images/rainy.jpg')";
             break;
 
         case "Snow":
-        container.style.background = "url('/WeatherApp/images/snow.jpg')";
+        container.style.background = "url('/images/snow.jpg')";
         break;
 
         case "Thunderstorm":
-        container.style.background = "url('/WeatherApp/images/thunderstorm.jpg')";
+        container.style.background = "url('/images/thunderstorm.jpg')";
         break;
         
         case "Mist":
-        container.style.background = "url('/WeatherApp/images/Mist.jpg')";
+        container.style.background = "url('/images/Mist.jpg')";
         break;
 
         default:
-            container.style.background = "url('/WeatherApp/images/sunny.jpg')";
+            container.style.background = "url('/images/sunny.jpg')";
     }
 
     container.style.backgroundPosition = "center";
