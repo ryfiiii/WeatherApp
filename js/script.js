@@ -4,6 +4,7 @@ const temp = document.querySelector(".temp");
 const container = document.querySelector(".container");
 const searchBox = document.querySelector(".searchBox");
 const error = document.querySelector(".errorMessage");
+const validate = /^[A-Za-z]*$/;
 
 //ページが読み込まれた時
 window.onload = function () {
@@ -15,6 +16,9 @@ searchBox.addEventListener("keydown", function(e) {
     if(e.key === "Enter"){
         if(searchBox.value === ""){
             error.innerHTML = "※都市名を入力してください";
+            
+        }else if(!validate.test(searchBox.value)){
+            error.innerHTML = "※都市名は英語で入力してください";
             
         }else{
             error.innerHTML = "　";
