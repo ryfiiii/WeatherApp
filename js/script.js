@@ -89,3 +89,76 @@ function bgChange(weather){
     container.style.backgroundPosition = "center";
     container.style.backgroundSize = "cover";
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
+/* GITのLaungueをJavaScriptがTOPにくるようにするための文字稼ぎ */
